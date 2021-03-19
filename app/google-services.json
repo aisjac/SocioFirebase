@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705323946261",
+    "firebase_url": "https://socio-firebase.firebaseio.com",
+    "project_id": "socio-firebase",
+    "storage_bucket": "socio-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705323946261:android:5c75e67c181bf8b153991c",
+        "android_client_info": {
+          "package_name": "com.example.muhammadriaz.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705323946261-7iblv6anbbkrnj5v9tlhhsp9sps90qji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muhammadriaz.socialnetwork",
+            "certificate_hash": "dba61de8129b9ed79f3c2029597fb1de08e1d2f6"
+          }
+        },
+        {
+          "client_id": "705323946261-khr0kdc0lojrca0hbh62ih3jtth6j3ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_NPq2XBqYI_7XFVE7Xpg0M3lEM6dg0uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705323946261-khr0kdc0lojrca0hbh62ih3jtth6j3ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
